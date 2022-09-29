@@ -1,3 +1,4 @@
+//program to check voter eligibility;
 #include <iostream>
 using namespace std;
 int main()

@@ -1,4 +1,4 @@
-//program listing numbers from one to 10
+//program adding numbers
 #include<iostream>
 using namespace std;
 int main(){

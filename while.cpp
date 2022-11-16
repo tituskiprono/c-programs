@@ -18,5 +18,5 @@ cout<<"Enter first number";
  
  }
 cout<<sum;
- 
+ return 0;
 }
